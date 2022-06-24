@@ -4,6 +4,4 @@ Aplicacão para teste de manipulação de Credenciais e Tokens de Acesso via pad
 
 * Ruby 2.63
 
-  Rails 5.1
-  
-* ...
+* Rails 5.1
